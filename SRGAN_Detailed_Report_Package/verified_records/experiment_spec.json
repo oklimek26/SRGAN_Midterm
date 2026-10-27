@@ -1,0 +1,24 @@
+{
+  "config": {
+    "seed": 42,
+    "hr_size": 128,
+    "lr_size": 32,
+    "gan_batch": 32,
+    "classifier_batch": 32,
+    "warmup_epochs": 5,
+    "gan_epochs": 150,
+    "head_epochs": 5,
+    "fine_epochs": 3,
+    "g_filters": 32,
+    "g_blocks": 8,
+    "d_filters": 32,
+    "vgg_layer": "block3_conv4",
+    "pixel_weight": 1.0,
+    "perceptual_weight": 0.01,
+    "adversarial_weight": 0.001,
+    "mixed_precision": true,
+    "imagenet_weights": "imagenet"
+  },
+  "dataset_fingerprint": "01a704750e08bc899b4388540ea60e9d7fd34b5fcf9336fc5faf4158b298da67",
+  "protocol": "outer70test30_inner_train_validation10_v1"
+}

@@ -1,0 +1,12 @@
+{
+  "source_signature": "1a2b268b700204259468b60c986e4b9472956b4b999fa4a968939d102e4b3c7d",
+  "hr_size": 128,
+  "count": 24930,
+  "class_names": [
+    "cat",
+    "dog"
+  ],
+  "fingerprint": "01a704750e08bc899b4388540ea60e9d7fd34b5fcf9336fc5faf4158b298da67",
+  "rejected": 0,
+  "duplicates_removed": 0
+}
